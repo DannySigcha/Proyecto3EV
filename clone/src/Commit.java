@@ -5,5 +5,6 @@ public class Commit {
 	
 	private String nombre = "Proyecto3EvDannyDanielAlberto";
 	
+	private String comentario = "EstoyHaciendoUnPull";
 
 }
